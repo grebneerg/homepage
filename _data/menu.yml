@@ -11,9 +11,9 @@ entries:
     entries:
       - title: cs at cornell engineering
       - title: backend developer and co-owner at <a href='https://www.outlandanalytics.com/''>outland analytics</a>
-      - title: backend subteam lead at <a href='https://www.cornellappdev.com/'>cornell appdev</a>
   - title: things i have done
     entries:
       - title: programming lead at <a href='http://www.team639.org/'>code red robotics</a>
       - title: course instructor of <a href='https://www.cornellappdev.com/courses/backend'>the appdev backend course</a>
+      - title: backend subteam lead at <a href='https://www.cornellappdev.com/'>cornell appdev</a>
   - title: "this website theme based on <a href='https://github.com/riggraz/no-style-please'>no-style-please</a>"
