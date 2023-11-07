@@ -1,24 +1,32 @@
 entries:
   - title: find me on the internet
     entries:
+      - title: youtube
+        url: https://www.youtube.com/@grebneerg
       - title: github
         url: https://github.com/grebneerg
       - title: linkedin
         url: https://www.linkedin.com/in/greenbergjack/
-      - title: youtube
-        url: https://www.youtube.com/@grebneerg
+      - title: bluesky
+        url: https:bsky.app/profile/grebneerg.bsky.social
+      - title: instagram
+        url: https://instagram.com/grebneerg_kcaj
       - title: twitter
         url: https://twitter.com/jck_mg
   - title: check out my work
     entries:
       - title: "watch <a href='https://youtu.be/3sufoO1iILY'>The Drill</a>, my first complete short film, which I wrote, directed, and edited"
+      - title: "watch <a href='https://youtu.be/_-RlWX6Tfu8'>Disconnect</a>, my second short film, which I again wrote, directed, and edited"
+      - title: "<a href='https://aap.cornell.edu/news-events/exhibition/jenny-zhang-and-oscar-llodra-them'>THEM</a>: an immersive film installation for which I wrote and did a lot of technical setup and management on set"
   - title: things i do
+    entries:
+      - title: writing some things
+      - title: full-time software engineering
+  - title: things i have done
     entries:
       - title: cs at cornell engineering
         entries:
           - title: with film and creative writing minors
-  - title: things i have done
-    entries:
       - title: "backend developer and co-owner at <a href='https://www.outlandanalytics.com/'>outland analytics</a>"
       - title: "backend subteam lead at <a href='https://www.cornellappdev.com/'>cornell appdev</a>"
       - title: "course instructor of <a href='https://www.cornellappdev.com/courses/backend'>the appdev backend course</a>"
