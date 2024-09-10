@@ -3,16 +3,14 @@ entries:
     entries:
       - title: youtube
         url: https://www.youtube.com/@grebneerg
+      - title: instagram
+        url: https://instagram.com/grebneerg_kcaj
+      - title: bluesky
+        url: https:bsky.app/profile/grebneerg.bsky.social
       - title: github
         url: https://github.com/grebneerg
       - title: linkedin
         url: https://www.linkedin.com/in/greenbergjack/
-      - title: bluesky
-        url: https:bsky.app/profile/grebneerg.bsky.social
-      - title: instagram
-        url: https://instagram.com/grebneerg_kcaj
-      - title: twitter
-        url: https://twitter.com/jck_mg
   - title: check out my work
     entries:
       - title: "watch <a href='https://youtu.be/3sufoO1iILY'>The Drill</a>, my first complete short film, which I wrote, directed, and edited"
